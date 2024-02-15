@@ -1,0 +1,1 @@
+tensorboard --logdir=D://onedrive_me//OneDrive//code//python_code//my_thesis_second_theme//runs
